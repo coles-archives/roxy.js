@@ -8,8 +8,10 @@
 <p align="center">
     <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-blue.svg?style=flat-square" alt="style"/></a>
     <a href="https://discord.gg/WK2qTecTkJ"><img src="https://img.shields.io/badge/discord-roxy.js-blue.svg?style=flat-square" alt="discord"></a>
-    <a href="https://www.npmjs.com/package/roxy.js"><img src="https://img.shields.io/npm/v/roxy.js.svg?style=flat-square" alt="npm package"></a>
-    <!-- <a href="https://travis-ci.org/suufi/noblox.js"><img src="https://img.shields.io/travis/suufi/noblox.js/master.svg?style=flat-square" alt="Travis Build Status"/></a></a> -->
+    <a href="https://www.npmjs.com/package/roxy.js"><img src="https://img.shields.io/npm/v/roxy.js.svg?style=flat-square" alt="npm"></a>
+    <a href="https://travis-ci.com/colenh/roxy.js"><img src="https://img.shields.io/travis/colenh/roxy.js/master.svg?style=flat-square" alt="build"/></a></a>
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fcolenh%2Froxy.js?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcolenh%2Froxy.js.svg?type=shield?style=flat-square" alt="license"></a>
+    <a href="https://david-dm.org/colenh/roxy.js"><img src="https://status.david-dm.org/gh/colenh/roxy.js.svg?style=flat-square" alt="dependencies"></a>
 </p>
 
 <p align="center">
