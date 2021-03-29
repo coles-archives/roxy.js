@@ -3,8 +3,6 @@
     <br>
 </h1>
 
-***
-
 <h4 align="center">a simple node wrapper for roblox.</h4> 
 
 ----
