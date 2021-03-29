@@ -63,7 +63,7 @@ async function init() {
 
 ## credits
 
-* [cole](https://github.com/coleiscoolig) - lead maintainer
+* [cole](https://github.com/colenh) - lead maintainer
 * [suufi](https://github.com/suufi) & [visualizememe](https://github.com/visualizememe) - inspiration
 * [suufi](https://github.com/suufi) - readme base
 
