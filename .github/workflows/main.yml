@@ -20,9 +20,7 @@ jobs:
         run: npm install -g yarn
 
       - name: add dependencies
-        run: |
-          yarn
-          yarn global add jsdoc
+        run: yarn
 
   publish:
     needs: test
@@ -40,9 +38,7 @@ jobs:
         run: npm install -g yarn
 
       - name: add dependencies
-        run: |
-          yarn
-          yarn global add jsdoc
+        run: yarn
 
       - name: publish
         uses: JS-DevTools/npm-publish@v1
