@@ -1,6 +1,6 @@
 {
   "name": "roxy.js",
-  "version": "1.1.0",
+  "version": "1.0.8",
   "description": "a simple node.js wrapper for roblox",
   "main": "lib/index.js",
   "directories": {
