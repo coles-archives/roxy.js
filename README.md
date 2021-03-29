@@ -5,8 +5,6 @@
 
 <h4 align="center">a simple node wrapper for roblox.</h4> 
 
-----
-
 <p align="center">
     <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-blue.svg?style=flat-square" alt="style"/></a>
     <a href="https://discord.gg/WK2qTecTkJ"><img src="https://img.shields.io/badge/discord-roxy.js-blue.svg?style=flat-square" alt="discord"></a>
@@ -16,8 +14,6 @@
     <a href="https://david-dm.org/colenh/roxy.js"><img src="https://status.david-dm.org/gh/colenh/roxy.js.svg?style=flat-square" alt="dependencies"></a>
 </p>
 
-----
-
 <p align="center">
   <a href="#about">about</a> •
   <a href="#install">install</a> •
@@ -25,8 +21,6 @@
   <a href="#credits">credits</a> •
   <a href="#license">license</a>
 </p>
-
-----
 
 ## about
 
