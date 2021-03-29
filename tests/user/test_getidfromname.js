@@ -1,5 +1,5 @@
-const roxy = require('../../lib/index');
-async function test() {
-	console.log(await roxy.user.getidfromname('duixrix'));
+const roxy = require('../../lib/index')
+async function t () {
+  console.log(await roxy.user.getidfromname('duixrix'))
 }
-test();
+t()
