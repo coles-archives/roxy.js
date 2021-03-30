@@ -93,3 +93,9 @@ table.props td.name code .content table thead td,
 .content table thead th {
   color: #cccdd9 !important;
 }
+
+.button {
+  background: none !important;
+  color: #fff !important;
+  border-color: none !important;
+}
