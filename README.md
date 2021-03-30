@@ -50,7 +50,7 @@ you can find our current docs at [roxy.js.org](https://roxy.js.org/)
 2. press `Control + Shift + i` on your keyboard or right click and click inspect
 3. click `Application`
 4. find `.ROBLOSECURITY` and copy
-5. put this full token into client.init: `client.init({ cookie: '_|WARNING:-DO'})`
+5. put this full token into client.initiate: `client.initiate({ cookie: '_|WARNING:-DO'})`
     
 ## example
 
@@ -58,7 +58,7 @@ you can find our current docs at [roxy.js.org](https://roxy.js.org/)
 const roxy = require('roxy.js')
 const client = new roxy.client()
 async function init() {
-    await client.init({cookie: '_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_12345678901234567890'})
+    await client.initiate({cookie: '_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_12345678901234567890'})
 }
 ```
 
