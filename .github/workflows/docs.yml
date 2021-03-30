@@ -1,3 +1,5 @@
+# original from noblox: https://github.com/suufi/noblox.js/blob/master/.github/workflows/doc-publish.yml
+
 name: docs
 
 on:

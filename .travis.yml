@@ -1,3 +1,5 @@
+# couldnt really rewrite so - inspired by noblox: https://github.com/suufi/noblox.js/blob/master/.travis.yml
+
 language: node_js
 node_js:
   - "12"

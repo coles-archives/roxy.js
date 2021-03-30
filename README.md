@@ -1,9 +1,9 @@
+<!-- inspired by noblox - rewrote but still gave credit <3 -->
+
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/colenh/roxy.js/main/docs_include/roxyjs-banner.png" alt="roxy.js" width="250"/>
     <br>
 </h1>
-
-<h4 align="center">a simple node wrapper for roblox.</h4> 
 
 <p align="center">
     <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-blue.svg?style=flat-square" alt="style"/></a>
@@ -15,43 +15,22 @@
     <a href="https://david-dm.org/colenh/roxy.js"><img src="https://img.shields.io/snyk/vulnerabilities/npm/roxy.js?style=flat-square" alt="vulnerabilities"></a>
 </p>
 
-<p align="center">
-  <a href="#about">about</a> •
-  <a href="#install">install</a> •
-  <a href="#docs">docs</a> •
-  <a href="#credits">credits</a> •
-  <a href="#license">license</a>
-</p>
-
 ## about
 
-roxy.js is a node module to interact with the roblox website via node.js. it is heavily inspired by noblox.js and bloxy but with simplicity in mind. <3
+roxy.js is a roblox wrapper for node.js, our goal is to be as simple as possible. this package is heavily inspired by noblox.js. roxy.js is licensed under MIT
 
 ## install
 
-run the following in your terminal:
 ```bash
 # locally
-    $ npm install roxy.js --save
     $ yarn add roxy.js
+    $ npm install roxy.js --save
 
 # globally
-    $ npm install roxy.js -g
     $ yarn global add roxy.js
+    $ npm install roxy.js -g
 ```
 
-## docs
-
-you can find our current docs at [roxy.js.org](https://roxy.js.org/)
-    
-## getting your cookie (chrome):
-
-1. open roblox page and login to chosen account
-2. press `Control + Shift + i` on your keyboard or right click and click inspect
-3. click `Application`
-4. find `.ROBLOSECURITY` and copy
-5. put this full token into client.initiate: `client.initiate({ cookie: '_|WARNING:-DO'})`
-    
 ## example
 
 ```js
@@ -62,12 +41,11 @@ async function init() {
 }
 ```
 
+## docs
+
+to view api documentation, tutorials on how to get your cookie and more, visit: [roxy.js.org](https://roxy.js.org/)
+
 ## credits
 
 * [cole](https://github.com/colenh) - lead maintainer
-* [suufi](https://github.com/suufi) & [visualizememe](https://github.com/visualizememe) - inspiration
-* [suufi](https://github.com/suufi) - readme base
-
-## License
-
-MIT
+* [suufi](https://github.com/suufi) - inspiration, readme base, workflows & more
