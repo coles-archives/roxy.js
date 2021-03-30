@@ -13,3 +13,8 @@ body, .top-nav .menu .navigation .link, body {
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
     color: #fff !important;
 }
+
+.sidebar {
+    background-color: #32353b !important; 
+    color: #cccdd9 !important; 
+}
