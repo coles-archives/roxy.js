@@ -13,7 +13,6 @@
     <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fcolenh%2Froxy.js?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcolenh%2Froxy.js.svg?type=shield" alt="license"></a>
     <a href="https://david-dm.org/colenh/roxy.js"><img src="https://status.david-dm.org/gh/colenh/roxy.js.svg?style=flat-square" alt="dependencies"></a>
     <a href="https://david-dm.org/colenh/roxy.js"><img src="https://img.shields.io/snyk/vulnerabilities/npm/roxy.js?style=flat-square" alt="vulnerabilities"></a>
-    <!-- <a href="https://snyk.io/test/npm/roxy.js"><img src="https://img.shields.io/snyk/vulnerabilities/npm/roxy.js?style=flat-square" alt="vulnerabilities"></a> -->
 </p>
 
 <p align="center">
