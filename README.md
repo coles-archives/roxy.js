@@ -12,7 +12,7 @@
     <a href="https://travis-ci.com/colenh/roxy.js"><img src="https://img.shields.io/travis/com/colenh/roxy.js?style=flat-square" alt="build"/></a>
     <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fcolenh%2Froxy.js?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcolenh%2Froxy.js.svg?type=shield" alt="license"></a>
     <a href="https://david-dm.org/colenh/roxy.js"><img src="https://status.david-dm.org/gh/colenh/roxy.js.svg?style=flat-square" alt="dependencies"></a>
-    <a href="https://david-dm.org/colenh/roxy.js"><img src="https://img.shields.io/snyk/vulnerabilities/npm/roxy.js?style=flat-square" alt="vulnerabilities"></a>
+    <a href="https://david-dm.org/colenh/roxy.js"><img src="https://img.shields.io/snyk/vulnerabilities/npm/roxy.js.svg?style=flat-square" alt="vulnerabilities"></a>
 </p>
 
 ## about
@@ -35,7 +35,7 @@ roxy.js is a roblox wrapper for node.js, our goal is to be as simple as possible
 
 ```js
 const roxy = require('roxy.js')
-const client = new roxy.client()
+const client = new roxy.Client()
 async function init() {
     await client.initiate({cookie: '_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_12345678901234567890'})
 }
