@@ -1,7 +1,11 @@
-.inner {
-    background-color: #626060;
+.inner, .top-nav {
+    background-color: #36393f;
 }
 
-.top-nav {
-    background-color: #626060;
+.link {
+    color: #cccdd9;
+}
+
+#main-content-wrapper, .core {
+    background-color: #32353b;
 }
