@@ -17,6 +17,7 @@ html {
 .core,
 .content {
   background-color: #32353b !important;
+  box-shadow: none !important; 
 }
 
 body,
@@ -60,7 +61,7 @@ body {
 #side-nav {
   background-color: #32353b !important;
   color: #cccdd9 !important;
-  border-left: 0px !important;
+  border-left: none !important;
 }
 
 .side-nav h3 {
