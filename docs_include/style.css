@@ -9,3 +9,7 @@
 #main-content-wrapper, .core, .content {
     background-color: #32353b !important;
 }
+
+body {
+    color: #cccdd9 !important;  
+}
