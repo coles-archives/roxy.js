@@ -1,11 +1,11 @@
 .inner, .top-nav {
-    background-color: #36393f;
+    background-color: #36393f !important;
 }
 
 .top-nav .menu .navigation .link {
-    color: #cccdd9;
+    color: #cccdd9 !important;
 }
 
 #main-content-wrapper, .core, .content {
-    background-color: #32353b;
+    background-color: #32353b !important;
 }
