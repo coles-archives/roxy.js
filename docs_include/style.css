@@ -2,10 +2,10 @@
     background-color: #36393f;
 }
 
-.link {
+.top-nav .menu .navigation .link {
     color: #cccdd9;
 }
 
-#main-content-wrapper, .core {
+#main-content-wrapper, .core, .content {
     background-color: #32353b;
 }
