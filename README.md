@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/colenh/roxy.js/main/img/roxyjs-banner.png" alt="roxy.js" width="46"/>
+    <img src="https://raw.githubusercontent.com/colenh/roxy.js/main/img/roxyjs-banner.png" alt="roxy.js" width="250"/>
     <br>
 </h1>
 
