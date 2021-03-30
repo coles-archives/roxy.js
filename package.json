@@ -20,7 +20,15 @@
     "url": "git+https://github.com/colenh/roxy.js.git"
   },
   "keywords": [
-    "roblox"
+    "roblox",
+    "node",
+    "nodejs",
+    "node.js",
+    "robloxapi",
+    "roblox-api",
+    "roxy",
+    "roxy.js",
+    "roxyjs"
   ],
   "author": "cole",
   "license": "MIT",
