@@ -28,6 +28,8 @@
         "better-docs": {
             "logo": "./roxyjs-small.png",
             "title": "roxy.js",
+            "trackingCode": "<!-- Global site tag (gtag.js) - Google Analytics --><script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YC116422QE\"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-YC116422QE');</script>",
+            "css": "style.css",
             "hideGenerator": true,
             "navLinks": [
                 {
