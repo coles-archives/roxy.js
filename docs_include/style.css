@@ -11,6 +11,7 @@ html {
 .inner,
 .top-nav {
   background-color: #36393f !important;
+  box-shadow: none;
 }
 
 #main-content-wrapper,
@@ -98,4 +99,9 @@ table.props td.name code .content table thead td,
   background: none !important;
   color: #fff !important;
   border-color: transparent !important;
+}
+
+a,
+a:hover {
+  color: #79c2ae !important;
 }
