@@ -39,6 +39,7 @@ body {
 .sidebar {
   background-color: #32353b !important;
   color: #cccdd9 !important;
+  border-right: none;
 }
 
 .sidebar .category h2 {
