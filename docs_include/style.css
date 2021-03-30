@@ -60,6 +60,7 @@ body {
 #side-nav {
   background-color: #32353b !important;
   color: #cccdd9 !important;
+  border-left: 0px !important;
 }
 
 .side-nav h3 {
@@ -76,6 +77,12 @@ body {
 }
 
 .prettyprint {
-    background-color: #2f3136 !important;
-    border-radius: 10px !important;
+  background-color: #2f3136 !important;
+  border-radius: 10px !important;
+}
+
+.table {
+  background-color: #2f3136 !important;
+  border-radius: 5px !important;
+  color: #cccdd9 !important;
 }
