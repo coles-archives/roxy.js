@@ -11,7 +11,7 @@ html {
 .inner,
 .top-nav {
   background-color: #36393f !important;
-  box-shadow: none;
+  box-shadow: none !important;
 }
 
 #main-content-wrapper,
@@ -39,7 +39,7 @@ body {
 .sidebar {
   background-color: #32353b !important;
   color: #cccdd9 !important;
-  border-right: none;
+  border-right: none !important;
 }
 
 .sidebar .category h2 {
