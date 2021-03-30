@@ -1,5 +1,5 @@
 {
-  "suufi": "package.json scripts based on noblox, thank you suufi for allowing me to use noblox workflows & more!"
+  "suufi": "package.json scripts based on noblox, thank you suufi for allowing me to use noblox workflows & more!",
   "name": "roxy.js",
   "version": "1.0.9",
   "description": "a simple node.js wrapper for roblox",
