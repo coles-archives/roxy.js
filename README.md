@@ -48,4 +48,4 @@ to view api documentation, tutorials on how to get your cookie and more, visit: 
 ## credits
 
 * [cole](https://github.com/colenh) - lead maintainer
-* [suufi](https://github.com/suufi) - inspiration, readme base, workflows & more
+* [suufi](https://github.com/suufi) - inspiration, readme base, package.json scripts, workflows & more
