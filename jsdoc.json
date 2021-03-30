@@ -25,6 +25,7 @@
     },
 
     "templates": {
+        "favicon": "./roxyjs-small.png",
         "better-docs": {
             "logo": "./roxyjs-small.png",
             "title": "roxy.js",
