@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "search": true,
+        "search": false, 
         "default": {
             "staticFiles": {
                 "include": [

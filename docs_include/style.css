@@ -106,32 +106,3 @@ a,
 a:hover {
   color: #79c2ae !important;
 }
-
-.sidebar .search-wrapper input,
-#search {
-  border-radius: 10px !important;
-  background-color: #363636 !important;
-  color: #cccdd9 !important;
-}
-
-::-webkit-input-placeholder,
-:-ms-input-placeholder,
-::placeholder {
-  color: #cccdd9 !important;
-  opacity: 1 !important;
-}
-
-.input:focus,
-.textarea:focus,
-.select select:focus,
-.is-focused.input,
-.is-focused.textarea,
-.select select.is-focused,
-.input:active,
-.textarea:active,
-.select select:active,
-.is-active.input,
-.is-active.textarea,
-.select select.is-active {
-  border-color: none !important;
-}
