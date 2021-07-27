@@ -15,5 +15,5 @@ figlet('roxy.js', async function (err, text) {
   console.log('📗 read our docs at: ' + chalk.blue('https://roxy.js.org/'))
   console.log('📞 for support, join our discord: ' + chalk.blue('https://discord.gg/WK2qTecTkJ'))
   console.log('🐱 find a bug? want to request a feature? visit our github: ' + chalk.blue('https://github.com/colenh/roxy.js'))
-  console.log(chalk.redBright('as noblox.js and bloxy state, roblox does change their api endpoints out of the blue: https://devforum.roblox.com/t/introduce-change-logs-to-roblox-api-endpoints/524783'))
+  console.log(chalk.redBright('as noblox.js and bloxy state, roblox does change their api endpoints out of the blue: https://devforum.roblox.com/t/introduce-change-logs-to-roblox-api-endpoints/524783\n'))
 })
