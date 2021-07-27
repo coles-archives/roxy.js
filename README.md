@@ -1,4 +1,4 @@
-<!-- inspired by noblox - rewrote but still gave credit <3 -->
+<h1>ARCHIVED</h1>
 
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/colenh/roxy.js/main/docs_include/roxyjs-banner.png" alt="roxy.js" width="250"/>
